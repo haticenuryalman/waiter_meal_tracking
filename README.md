@@ -52,8 +52,6 @@ brew install cmake boost boost-python zbar
 3.Canlı kamera ile çalıştırmak için:
 python kamera_analiz.py
 
----
-
 
 
 
