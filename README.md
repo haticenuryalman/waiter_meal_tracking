@@ -38,6 +38,7 @@ Bu sistem **web arayüzü olmadan**, doğrudan **VS Code veya terminal üzerinde
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
+
 2.Gerekli kütüphaneleri kur
 ```bash
 pip install opencv-python face_recognition dlib pyzbar ultralytics numpy
@@ -47,7 +48,7 @@ brew install cmake boost boost-python zbar
 
 Çıktı: loglar.csv dosyası otomatik olarak oluşturulur.
 
-
+Tüm klasöre ulaşmak isterseniz: https://drive.google.com/drive/folders/1LPISDUsLo7ex6MDnYsUwJJwMV-ilMFTT?usp=sharing
 
 
 
