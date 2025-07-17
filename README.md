@@ -65,6 +65,7 @@ python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 2.Gerekli kütüphaneleri kur
+```bash
 pip install opencv-python face_recognition dlib pyzbar ultralytics numpy
 Mac kullanıcıları ayrıca şunu kurmalı:
 
