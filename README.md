@@ -78,22 +78,6 @@ python kamera_analiz.py
 
 ---
 
-## Kullanım
 
-### Video dosyasını analiz etmek için
-
-Python ortamında şu şekilde kullanabilirsin:
-
-```python
-from video_isleme import process_video
-process_video("ornek_video.mov")  # veya .mp4
-
-
-## Notlar
-
-Garson tanıma için garson_fotograflari/ klasörüne her garsonun yüz fotoğrafı konulmalıdır (dosya adı = garson adı)
-QR kodlar masaları temsil eder
-YOLO modeli food_yolo_best.pt olarak yüklenir
-Tüm analiz bilgileri loglar.csv dosyasına yazılır
 
 
