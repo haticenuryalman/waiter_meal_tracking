@@ -15,8 +15,7 @@ Bu sistem **web arayüzü olmadan**, doğrudan **VS Code veya terminal üzerinde
 ## Özellikler
 
 - Terminalde çalışır, web sunucusu gerekmez  
-- `.mov` ve `.mp4` videolarla analiz yapar  
-- Canlı kamera ile anlık analiz yapılabilir  
+- `.mov` ve `.mp4` videolarla analiz yapar    
 - Masa, garson, yemek ve hesap bilgilerini `loglar.csv` dosyasına yazar  
 - Jupyter Notebook ile uyumludur (face_recognition destekli)
 
@@ -25,7 +24,6 @@ Bu sistem **web arayüzü olmadan**, doğrudan **VS Code veya terminal üzerinde
 ## Klasör Yapısı
 
 - `Untitled-1.ipynb` – Video dosyasından analiz yapan fonksiyon  
-- `kamera_analiz.py` – Canlı kameradan analiz (gerçek zamanlı)  
 - `garson_fotograflari/` – Garson yüz görselleri (.jpg/.png)  
 - `food_yolo_best.pt` – YOLOv8 yemek tanıma modeli  
 - `loglar.csv` – Otomatik oluşturulan analiz çıktısı  
@@ -49,8 +47,6 @@ brew install cmake boost boost-python zbar
 
 Çıktı: loglar.csv dosyası otomatik olarak oluşturulur.
 
-3.Canlı kamera ile çalıştırmak için:
-python kamera_analiz.py
 
 
 
