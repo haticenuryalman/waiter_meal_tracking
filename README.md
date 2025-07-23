@@ -47,8 +47,9 @@ Mac kullanıcıları ayrıca şunu kurmalı:
 
 brew install cmake boost boost-python zbar
  ```
+### Çıktılar
+- loglar.csv dosyası otomatik olarak oluşturulur.
 
-Çıktılar loglar.csv dosyası otomatik olarak oluşturulur.
 
 Tüm klasöre ulaşmak isterseniz: https://drive.google.com/drive/folders/1LPISDUsLo7ex6MDnYsUwJJwMV-ilMFTT?usp=sharing
 
