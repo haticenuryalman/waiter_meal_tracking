@@ -53,6 +53,6 @@ brew install cmake boost boost-python zbar
 
 Tüm klasöre ulaşmak isterseniz: https://drive.google.com/drive/folders/1LPISDUsLo7ex6MDnYsUwJJwMV-ilMFTT?usp=sharing
 
-Projenin anlatıldığını ve denendiği Youtube videosu: https://www.youtube.com/watch?v=3sq2HrR0we4
+Projenin detaylı açıklaması ve uygulamalı gösterimi için YouTube videosuna buradan ulaşabilirsiniz: https://www.youtube.com/watch?v=3sq2HrR0we4
 
  
